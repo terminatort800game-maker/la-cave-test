@@ -1,7 +1,7 @@
 {
   "name": "La Cave – Mon Matériel",
   "short_name": "La Cave",
-  "start_url": "/la-cave/",
+  "start_url": "/la-cave-test/",
   "display": "standalone",
   "background_color": "#0F0F0F",
   "theme_color": "#6AB023",
