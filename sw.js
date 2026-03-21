@@ -1,5 +1,5 @@
 const CACHE = 'la-cave-v1';
-const FILES = ['/la-cave/', '/la-cave/index.html'];
+const FILES = ['/la-cave-test/', '/la-cave-test/index.html'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)));
